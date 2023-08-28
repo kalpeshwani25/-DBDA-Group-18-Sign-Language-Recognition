@@ -12,7 +12,8 @@ We have created another model by using MediaPipe Library
 Screenshot of Real Time Output
 ![Screenshot (66)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/b0ecebfd-134c-4788-a8a1-9372171133b2)
 
-![Screenshot (62)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/66e2b645-c147-4dfe-8b36-f1ca97f6a2f4)
+![Screenshot (66)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/dc7f9f24-fc7a-4f45-b111-027b529a0f0a)
+
 
 
 
