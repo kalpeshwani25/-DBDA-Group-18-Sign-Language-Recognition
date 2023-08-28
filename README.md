@@ -10,10 +10,9 @@ and the accuracy of our model is approx 97% and further we are going to do it fo
 
 We have created another model by using MediaPipe Library
 Screenshot of Real Time Output
-![Screenshot (66)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/b0ecebfd-134c-4788-a8a1-9372171133b2)
+![Screenshot (66)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/15e27464-85c6-4f3b-a6c6-b8f1ac167786)
 
-![Screenshot (66)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/dc7f9f24-fc7a-4f45-b111-027b529a0f0a)
-
+![Screenshot (63)](https://github.com/kalpeshwani25/-DBDA-Group-18-Sign-Language-Recognition/assets/108396214/8c94eae0-0c5b-4828-b544-96fa17a40fee)
 
 
 
